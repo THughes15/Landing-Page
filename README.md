@@ -1,0 +1,1 @@
+The Odin Project assignment to re-create a landing page from two pictures.
